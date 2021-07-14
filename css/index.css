@@ -383,6 +383,9 @@
   font-size: 40px;
   line-height: 48px;
   color: #1BB0BF;
+}
+
+.part2-wrapper .right .text h2:last-of-type {
   margin-bottom: 42px;
 }
 
@@ -421,13 +424,13 @@
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
   margin: 0 auto;
-  width: 320px;
+  width: 345px;
   height: 250px;
   color: #707070;
 }
 
 .part3-wrapper .left .text h2 {
-  font-size: 40px;
+  font-size: 34px;
   line-height: 48px;
   margin-bottom: 42px;
   color: #1BB0BF;
@@ -608,10 +611,10 @@
 
 .header .wIsH .p4 {
   width: 164px;
-  font-size: 14px;
+  font-size: 12px;
   -webkit-transform: rotate(-12deg);
           transform: rotate(-12deg);
-  top: 8%;
+  top: 7%;
   left: 2%;
   color: #FD4E00;
 }
